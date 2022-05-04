@@ -1,10 +1,10 @@
 {
-    "title": "Installation Go Language di Linux",
-    "description": "Installati Go di sistem operasi Linux",
+    "title": "Instalasi Go di Linux",
+    "description": "Belajar cara instalasi Go di sistem operasi Linux",
     "details": {
         "steps": [
             {
-                "title": "Scenario Structure",
+                "title": "Struktur Folder",
                 "text": "step1.md"
             },
             {
