@@ -1,0 +1,40 @@
+{
+    "title": "Installation Go Language di Linux",
+    "description": "Installati Go di sistem operasi Linux",
+    "details": {
+        "steps": [
+            {
+                "title": "Scenario Structure",
+                "text": "step1.md"
+            },
+            {
+                "title": "Scenario Syntax",
+                "text": "step2.md"
+            },
+            {
+                "title": "CLI",
+                "text": "step3.md"
+            },
+            {
+                "title": "Visual Studio Code Extension",
+                "text": "step4.md"
+            },
+            {
+                "title": "Webhooks",
+                "text": "step5.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "uilayout": "editor-terminal"
+    },
+    "backend": {
+        "imageid": "ubuntu:2004"
+    }
+}
