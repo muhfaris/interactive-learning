@@ -25,36 +25,3 @@ Struktur folder yang akan kita gunakan adalah seperti berikut:
 ├── pkg
 └── src # untuk menyimpan semua project
 ```
-
-# Task
-1. Download Golang ke home / root direktori
-Silahkan copy perintah berikut dan jalankan di terminal.
-
-`wget https://go.dev/dl/go1.18.1.linux-amd64.tar.gz`
-
-2. Jalankan perintah berikut di terminal untuk ekstrak Golang ke home direktori.
-
-`tar -xvf go1.18.1.linux-amd64.tar.gz`
-
-3. Buat folder `workspace` dan sub-foldernya `pkg`, `bin` dan `src`. Berikut perintah yang digunakan untuk membuat folder.
-
-`mkdir ~/workspace`
-
-`mkdir -p ~/workspace/{pkg,bin,src}`
-
-4. Set environment sesuai lokasi folder yang sudah kita bikin.
-
-`export GOROOT="$HOME/go"`
-
-`export GOPATH="$HOME/workspace"`
-
-`export GOBIN=$GOPATH/bin`
-
-`export PATH=$PATH:$GOROOT/bin:$GOPATH/bin`
-
-5. Test Go version
-Silahkan coba untuk menjalankan perintah `go version` di terminal. Jika berhasil maka akan ditampilkan versi dari Golang yang sudah di install
-
-``` 
-go version go1.18.1 linux/amd64
-```
