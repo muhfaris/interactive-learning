@@ -1,10 +1,21 @@
-# Interactive Katacoda Scenarios
 
-[![](http://shields.katacoda.com/katacoda/muhfaris/count.svg)](https://www.katacoda.com/muhfaris "Get your profile on Katacoda.com")
+# Interactive Learning
+Kumpulan dari beberapa pembelajaran interaktif. Membantu bagi siapapun yang ingin belajar tentang pemograman.
 
-Visit https://www.katacoda.com/muhfaris to view the profile and interactive scenarios
+#### Table of Contents
+* [Golang Tutorial](#golang-tutorial)
+	* [Instal Golang di Linux](#instal-golang-linux)
+    * TBD [Pengenalan Fungsi Main](#)
+    * TBD [Go 101](#)
+        * TBD [Pengenalan Tipe Data](#)
+        * TBD [Pengenalan Operator Expresion](#)
+        * TBD [Pengenalan Percabangan](#)
+        * TBD [Pengenalan Perulangan](#)
+        * TBD [Pengenalan Array / Slice / Map](#)
+        * TBD [Pengenalan Fungsi](#)
+	
+### Support the Development
+You can use our service free of charge, but if you happen to think to help make Interactive-Learning even better, please donate via the following links 
 
-### Writing Scenarios
-Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
+- [Saweria](https://saweria.co/muhfaris)
 
-For examples, visit https://github.com/katacoda/scenario-example
