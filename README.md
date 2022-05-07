@@ -4,7 +4,7 @@ Kumpulan dari beberapa pembelajaran interaktif. Membantu bagi siapapun yang ingi
 
 #### Table of Contents
 * [Golang Tutorial](#golang-tutorial)
-	* [Instal Golang di Linux](#instal-golang-linux)
+	* [Instal Golang di Linux](https://katacoda.com/muhfaris/scenarios/1-go-installation-linux)
     * TBD [Pengenalan Fungsi Main](#)
     * TBD [Go 101](#)
         * TBD [Pengenalan Tipe Data](#)
