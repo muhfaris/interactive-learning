@@ -1,6 +1,9 @@
 
-# Interactive Learning
-Kumpulan dari beberapa pembelajaran interaktif. Membantu bagi siapapun yang ingin belajar tentang pemograman.
+![Interactive_Learning-removebg](https://user-images.githubusercontent.com/16787866/167677455-4aa14a9f-3427-4a32-8809-045cd72d440d.png)
+
+:star2:	Belajar Pemograman Secara Interaktif | https://www.katacoda.com/muhfaris :star2:	
+
+Kumpulan dari beberapa pembelajaran interaktif. Bertujuan untuk membantu bagi siapapun yang ingin belajar tentang pemograman.
 
 #### Table of Contents
 * [Golang Tutorial](#golang-tutorial)
