@@ -3,7 +3,10 @@ kalkulator sederhana. Sebelum lanjut, kita definisikan terlebih dahulu batasan-b
 - penjumlahan 2 angka
 - pengurangan 2 angka
 
-Sekarang silahkan ketik kode berikut ke editor:
+Langkah pertama buat file terlebih dahulu dengan nama `main.go`, perintah yang dijalankan adalah `touch main.go`.
+
+Kemudian setelah file berhasil dibuat, ketik kode berikut ke `main.go` via editor:
+
 ```
 package main
 
