@@ -1,0 +1,29 @@
+{
+    "title": "Pengenalan Basic Golang",
+    "description": "Pengenalan beberapa fundamental dari Golang",
+    "details": {
+        "steps": [
+            {
+                "title": "Program Sederhana",
+                "text": "step1.md"
+            },
+            {
+                "title": "Membuat Program Kaltulator",
+                "text": "step2.md"
+            },
+            {
+                "title": "Latihan",
+                "text": "step3.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        }
+    },
+    "environment": {
+        "uilayout": "editor-terminal"
+    },
+    "backend": {
+        "imageid": "ubuntu:2004"
+    }
+}
